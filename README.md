@@ -25,7 +25,7 @@
 <br><br>
     
 <h2>🎨 Portfolio 🎨</h2>
-<a href="https://kdyportfolio.vercel.app/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/70/70253.png" style='width: 50px;'></a>
+<a href="https://kdyportfolio.vercel.app/"><img src="https://cdn-icons-png.flaticon.com/512/70/70253.png" style='width: 50px;'></a>
 
 <br>
     
