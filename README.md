@@ -24,8 +24,8 @@
 
 <a href="https://kdyportfolio.vercel.app/"><img src="https://cdn-icons-png.flaticon.com/512/70/70253.png" style='width: 50px;'></a>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DOYEON-YOU&theme=radical)](https://github.com/DOYEON-YOU/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DOYEON-YOU&langs_count=8)](https://github.com/DOYEON-YOU/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devdoyeon&theme=radical)](https://github.com/devdoyeon/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devdoyeon&langs_count=8)](https://github.com/devdoyeon/github-readme-stats)
 
     
 <br>
