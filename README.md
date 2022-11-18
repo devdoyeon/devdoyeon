@@ -14,6 +14,7 @@
 <img src="https://img.shields.io/badge/TypeScript-0d47a1?style=for-the-badge&logo=typescript&logoColor=black"><br>
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
 <img src="https://img.shields.io/badge/Styled Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/>
 
     
 <br><br>
