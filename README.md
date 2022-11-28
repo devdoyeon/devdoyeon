@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=8C8C8C&height=200&section=header&text=Front%20End%20Developer%20Kwon%20Doyeon&fontSize=40&fontColor=ffffff&fontAlignY=35)
+![header](https://capsule-render.vercel.app/api?type=waving&color=8C8C8C&height=200&section=header&fontSize=40&fontColor=ffffff&fontAlignY=35)
   
   <img src="https://static-storychat.pstatic.net/451237_22801530/ba946gk92bgl30.gif" width="300">
   
