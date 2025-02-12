@@ -10,16 +10,21 @@
 <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/SCSS-ec407a?style=for-the-badge&logo=Sass&logoColor=white"><br>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-<img src="https://img.shields.io/badge/TypeScript-0d47a1?style=for-the-badge&logo=typescript&logoColor=black">
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
-<img src="https://img.shields.io/badge/next.js-05427c?style=for-the-badge&logo=next.js&logoColor=black"><br>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
+<img src="https://img.shields.io/badge/TypeScript-0d47a1?style=for-the-badge&logo=typescript&logoColor=white">
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white">
+<img src="https://img.shields.io/badge/next.js-05427c?style=for-the-badge&logo=next.js&logoColor=white"><br>
+<img src="https://img.shields.io/badge/oracle-C74634?style=for-the-badge&logo=oracledb&logoColor=white">
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"><br>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"><br>
 <img src="https://img.shields.io/badge/linux-ffcc33?style=for-the-badge&logo=linux&logoColor=white">
 <img src="https://img.shields.io/badge/docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white">
 <img src="https://img.shields.io/badge/kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white">
-<img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white">
+<img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white"><br>
+<img src="https://img.shields.io/badge/webstorm-38dbd8?style=for-the-badge&logo=webstorm&logoColor=white">
+<img src="https://img.shields.io/badge/pycharm-21d789?style=for-the-badge&logo=pycharm&logoColor=white">
 
     
 <br><br>
