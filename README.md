@@ -1,10 +1,6 @@
 <div align="center">
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=8C8C8C&height=200&section=header&fontSize=40&fontColor=ffffff&fontAlignY=35)
-  
-  <img src="https://static-storychat.pstatic.net/451237_22801530/ba946gk92bgl30.gif" width="300">
-  
-<br>
 <h3><b>:raised_hands: Introduction</b></h3>
 <br>
 진로를 고민하던 중 개발을 접하게 되었고, 독학으로 프론트엔드를 공부하며
