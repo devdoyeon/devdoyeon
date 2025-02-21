@@ -5,8 +5,22 @@
   <img src="https://static-storychat.pstatic.net/451237_22801530/ba946gk92bgl30.gif" width="300">
   
 <br>
-
-  <h2>Stack</h2>
+<h3><b>:raised_hands: Introduction</b></h3>
+<br>
+진로를 고민하던 중 개발을 접하게 되었고, 독학으로 프론트엔드를 공부하며
+<br>
+웹 서비스의 구조와 동작 원리에 매력을 느껴 개발자의 길을 걷게 되었습니다.
+<br>
+실무 경험을 쌓아가면서 배포와 인프라 관리의 중요성을 깨닫게 되었고,
+<br>
+자동화된 CI/CD와 컨테이너 활용이 개발 생산성을 높이는 핵심 요소임을 인식하면서 DevOps에 관심을 가지게 되었습니다.
+<br>
+현재 관련 강의를 수강하며 인프라, 컨테이너, 배포 자동화 등을 학습하고 있습니다.
+<br>
+<br>
+<h3><b>:star: Skills</b></h3>
+<br>
+<br>
 <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/SCSS-ec407a?style=for-the-badge&logo=Sass&logoColor=white"><br>
@@ -25,12 +39,6 @@
 <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white"><br>
 <img src="https://img.shields.io/badge/webstorm-38dbd8?style=for-the-badge&logo=webstorm&logoColor=white">
 <img src="https://img.shields.io/badge/pycharm-21d789?style=for-the-badge&logo=pycharm&logoColor=white">
-
-    
-<br><br>
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devdoyeon&theme=radical)](https://github.com/devdoyeon/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devdoyeon&langs_count=8)](https://github.com/devdoyeon/github-readme-stats)
 
     
 <br>
